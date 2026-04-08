@@ -1,0 +1,10 @@
+# Enable URL rewriting for the PHP MVC application
+RewriteEngine On
+
+# Set the base path for rewrites
+RewriteBase /e-shop/
+
+# If the requested file or directory doesn't exist, route to index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
