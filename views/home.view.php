@@ -7,7 +7,7 @@ include_once __DIR__ . '/partials/header.php';
     <div class="container mx-auto text-center">
         <h1 class="text-5xl font-bold mb-4">Welcome to E-Shop</h1>
         <p class="text-xl mb-8">Discover amazing products at unbeatable prices. Shop now and enjoy fast delivery!</p>
-        <a href="/php-mvc-pattern/products" class="bg-yellow-400 text-green-800 font-bold py-3 px-6 rounded-lg hover:bg-yellow-300 transition duration-300">Shop Now</a>
+        <a href="/e-shop/products" class="bg-yellow-400 text-green-800 font-bold py-3 px-6 rounded-lg hover:bg-yellow-300 transition duration-300">Shop Now</a>
     </div>
 </section>
 

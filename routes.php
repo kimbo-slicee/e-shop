@@ -1,6 +1,6 @@
 <?php
 
-const BASE_URL = '/php-mvc-pattern';
+const BASE_URL = '/e-shop';
 $uri = $_SERVER['REQUEST_URI'];
 
 // Remove query string
