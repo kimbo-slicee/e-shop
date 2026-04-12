@@ -3,7 +3,7 @@
         <h1 class='text-2xl font-bold flex items-center'><i class="fas fa-shopping-bag mr-2"></i>E-Shop</h1>
         <nav>
             <ul class='flex space-x-6'>
-                <li><a href='/e-shop/' class='hover:text-yellow-300 transition duration-300'>Home</a></li>
+                <li><a href='/e-shop' class='hover:text-yellow-300 transition duration-300'>Home</a></li>
                 <li><a href="/e-shop/products" class="hover:text-yellow-300 transition duration-300">Products</a></li>
                 <li><a href='/e-shop/about' class='hover:text-yellow-300 transition duration-300'>About</a></li>
                 <li><a href='/e-shop/contact' class='hover:text-yellow-300 transition duration-300'>Contact</a></li>

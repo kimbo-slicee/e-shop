@@ -1,2 +1,0 @@
-<?php
-include_once  './views/about.view.php';
